@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KadiyalaKomali
 - 👀 I’m interested in arts and crafts
-- 🌱 I’m currently learning DaTA analytics
-- 💞️ I’m looking to collaborate on any software industry
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate In any software industry
 - 📫 How to reach me komalikadiyala17@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: ...
